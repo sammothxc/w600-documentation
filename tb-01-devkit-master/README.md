@@ -1,7 +1,7 @@
-TB-01 开发板 是一款全 IO 引出的 W600 开发板，体积小巧，操作简单，支持一键下载
+The TB-01 development board is a W600 development board with full I/O pinout. It is compact, easy to operate, and supports one-click download.
 
-该开发板使用 Altium Designer 17 设计。
+This development board was designed using Altium Designer 17.
 
-购买链接：http://shop.thingsturn.com
+Purchase: http://shop.thingsturn.com
 
-文档地址： http://docs.thingsturn.com
+Documentation: http://docs.thingsturn.com
